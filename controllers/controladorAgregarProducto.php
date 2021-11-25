@@ -7,7 +7,7 @@
     include '../models/Productos.php';
 
     if (isset($_POST["boton"])) {
-        $nombre= $_POST["nombreProducto"];
+        $nombre= $_POST["nombre"];
         $marca = $_POST["marca"];
         $precio = $_POST["precio"];
         $foto = $_POST["foto"];

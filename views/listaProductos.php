@@ -12,6 +12,13 @@
     <title>Document</title>
 </head>
 <body class="bodyColor">
+    <header>
+        <nav class="navbar navbar-light bg-dark ">
+            <div class="container-fluid">
+                <a class="navbar-brand text-success" href="index.php"><i class="fas fa-plus-square"></i> Registrar producto</a>
+            </div>
+        </nav>
+    </header>
     
         <div class="container">
             <div class="row">
